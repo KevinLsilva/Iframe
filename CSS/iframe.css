@@ -1,0 +1,17 @@
+iframe{
+
+    position: absolute;
+    border: none;
+    background-color: lightslategray;
+	width: 100%;
+    height: 100%;
+    left: 0%;
+    
+   
+}
+
+a {
+    font-size: 25px;
+    padding: 13px;
+}
+
